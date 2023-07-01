@@ -1,0 +1,10 @@
+org\stefan\tuc\bll\validators\EmailValidator.class
+org\stefan\tuc\start\App.class
+org\stefan\tuc\dao\AbstractDAO.class
+org\stefan\tuc\model\Client.class
+org\stefan\tuc\bll\validators\Validator.class
+org\stefan\tuc\dao\ClientDAO.class
+org\stefan\tuc\bll\validators\ClientAgeValidator.class
+org\stefan\tuc\connection\ConnectionFactory.class
+org\stefan\tuc\start\ReflectionExample.class
+org\stefan\tuc\bll\ClientBLL.class

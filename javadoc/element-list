@@ -1,0 +1,6 @@
+org.stefan.tuc.bll
+org.stefan.tuc.connection
+org.stefan.tuc.dao
+org.stefan.tuc.model
+org.stefan.tuc.presentation
+org.stefan.tuc.start
